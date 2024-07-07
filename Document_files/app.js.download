@@ -1,0 +1,25 @@
+// let btn=document.querySelector(".btn");
+// let onbtn=document.querySelector(".o-btn");
+
+// let container=document.querySelector(".container");
+// btn.addEventListener("click",()=>{
+//     // console.log("Working btn button");
+// container.style.backgroundColor="black";
+// container.style.color="white";
+// })
+
+// o-btn.addEventListener("click",()=>{
+//     // console.log("Working btn button");
+//     if(backgroundColor=="black"){
+//         container.style.backgroundColor="white";
+// container.style.color="black";
+//     }
+
+// })
+
+let array=["Arun","Vaibhav","Amol"];
+let names=["Sachin","Pradeep","Suprit"]
+let concat=array.concat(names)
+console.log(concat);
+
+
